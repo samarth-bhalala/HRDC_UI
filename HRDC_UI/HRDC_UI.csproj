@@ -67,15 +67,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Admin\Attendence management.aspx" />
+    <Content Include="admin\Attendence management.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin\Attendence management.aspx.cs">
+    <Compile Include="admin\Attendence management.aspx.cs">
       <DependentUpon>Attendence management.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Admin\Attendence management.aspx.designer.cs">
+    <Compile Include="admin\Attendence management.aspx.designer.cs">
       <DependentUpon>Attendence management.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
