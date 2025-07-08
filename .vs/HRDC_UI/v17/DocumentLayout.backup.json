@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "A:\\btect 5 sem\\.net\\HRDC_UI\\",
+  "WorkspaceRootPath": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|a:\\btect 5 sem\\.net\\hrdc_ui\\hrdc_ui\\admin\\attendence management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|c:\\users\\manan patel\\source\\repos\\hrdc_ui\\hrdc_ui\\admin\\attendence management.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\admin\\attendence management.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\hrdc_ui\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\hrdc_ui\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\hrdc_ui\\site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\hrdc_ui\\admin\\attendence management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\admin\\attendence management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|a:\\btect 5 sem\\.net\\hrdc_ui\\hrdc_ui\\admin\\attendence management.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\admin\\attendence management.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\hrdc_ui\\admin\\attendence management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F60BE-363F-470E-8DEA-758B5BA5B77E}|HRDC_UI\\HRDC_UI.csproj|solutionrelative:hrdc_ui\\admin\\attendence management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,41 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Attendence management.aspx.designer.cs",
-              "DocumentMoniker": "A:\\btect 5 sem\\.net\\HRDC_UI\\HRDC_UI\\admin\\Attendence management.aspx.designer.cs",
-              "RelativeDocumentMoniker": "HRDC_UI\\admin\\Attendence management.aspx.designer.cs",
-              "ToolTip": "A:\\btect 5 sem\\.net\\HRDC_UI\\HRDC_UI\\admin\\Attendence management.aspx.designer.cs*",
-              "RelativeToolTip": "HRDC_UI\\admin\\Attendence management.aspx.designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADgv14AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T07:34:24.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Attendence management.aspx",
-              "DocumentMoniker": "A:\\btect 5 sem\\.net\\HRDC_UI\\HRDC_UI\\admin\\Attendence management.aspx",
-              "RelativeDocumentMoniker": "HRDC_UI\\admin\\Attendence management.aspx",
-              "ToolTip": "A:\\btect 5 sem\\.net\\HRDC_UI\\HRDC_UI\\admin\\Attendence management.aspx",
-              "RelativeToolTip": "HRDC_UI\\admin\\Attendence management.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-07T07:34:03.866Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Site1.Master.designer.cs",
+              "RelativeDocumentMoniker": "HRDC_UI\\Site1.Master.designer.cs",
+              "ToolTip": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Site1.Master.designer.cs*",
+              "RelativeToolTip": "HRDC_UI\\Site1.Master.designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:17:36.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attendence management.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Admin\\Attendence management.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRDC_UI\\Admin\\Attendence management.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Admin\\Attendence management.aspx.designer.cs",
+              "RelativeToolTip": "HRDC_UI\\Admin\\Attendence management.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:34:24.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attendence management.aspx",
+              "DocumentMoniker": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Admin\\Attendence management.aspx",
+              "RelativeDocumentMoniker": "HRDC_UI\\Admin\\Attendence management.aspx",
+              "ToolTip": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Admin\\Attendence management.aspx",
+              "RelativeToolTip": "HRDC_UI\\Admin\\Attendence management.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T07:34:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "HRDC_UI\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Site1.Master.cs",
+              "RelativeToolTip": "HRDC_UI\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:21:01.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Site1.Master",
+              "RelativeDocumentMoniker": "HRDC_UI\\Site1.Master",
+              "ToolTip": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Site1.Master*",
+              "RelativeToolTip": "HRDC_UI\\Site1.Master*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T08:17:28.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attendence management.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Admin\\Attendence management.aspx.cs",
+              "RelativeDocumentMoniker": "HRDC_UI\\Admin\\Attendence management.aspx.cs",
+              "ToolTip": "C:\\Users\\Manan patel\\source\\repos\\HRDC_UI\\HRDC_UI\\Admin\\Attendence management.aspx.cs",
+              "RelativeToolTip": "HRDC_UI\\Admin\\Attendence management.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:18:40.798Z"
             }
           ]
         }

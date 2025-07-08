@@ -1,13 +1,12 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Attendance.aspx.cs"  %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Attendance.aspx.cs" MasterPageFile="~/Site1.Master"  %>
 
-<!DOCTYPE html>
-<html>
-<head runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <title>Attendance Management</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
-</head>
-<body>
-    <form id="form1" runat="server" class="container mt-5">
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="container mt-5">
         <div class="card shadow-lg p-4">
             <h2 class="text-primary mb-4">Attendance Management</h2>
 
@@ -27,7 +26,7 @@
                         <asp:TextBox ID="txtSearch" runat="server" CssClass="form-control" placeholder="Search by employee name..." />
                     </div>
                     <div class="col-md-2">
-                        <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="btn btn-info"  />
+                        <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="btn btn-info" />
                     </div>
                 </div>
             </fieldset>
@@ -48,12 +47,11 @@
             </fieldset>
 
             <div class="d-flex gap-2 mb-3">
-                <asp:Button ID="btnSubmit" runat="server" Text="Save Attendance" CssClass="btn btn-success"  />
-                <asp:Button ID="btnExportExcel" runat="server" Text="Export to Excel" CssClass="btn btn-secondary"  />
+                <asp:Button ID="btnSubmit" runat="server" Text="Save Attendance" CssClass="btn btn-success" />
+                <asp:Button ID="btnExportExcel" runat="server" Text="Export to Excel" CssClass="btn btn-secondary" />
             </div>
 
             <asp:Label ID="lblMessage" runat="server" CssClass="text-success fw-bold" />
         </div>
-    </form>
-</body>
-</html>
+    </div>
+</asp:Content>
