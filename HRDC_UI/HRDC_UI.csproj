@@ -67,16 +67,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="admin\Attendence management.aspx" />
+    <Content Include="admin\analysis_report.aspx" />
+    <Content Include="admin\attendence_management.aspx" />
+    <Content Include="admin\marks_entry.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="admin\Attendence management.aspx.cs">
-      <DependentUpon>Attendence management.aspx</DependentUpon>
+    <Compile Include="admin\analysis_report.aspx.cs">
+      <DependentUpon>analysis_report.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="admin\Attendence management.aspx.designer.cs">
-      <DependentUpon>Attendence management.aspx</DependentUpon>
+    <Compile Include="admin\analysis_report.aspx.designer.cs">
+      <DependentUpon>analysis_report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\attendence_management.aspx.cs">
+      <DependentUpon>attendence_management.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\attendence_management.aspx.designer.cs">
+      <DependentUpon>attendence_management.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\marks_entry.aspx.cs">
+      <DependentUpon>marks_entry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\marks_entry.aspx.designer.cs">
+      <DependentUpon>marks_entry.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -89,7 +105,9 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="admin\script\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
