@@ -57,10 +57,6 @@ A:\btect 5 sem\.net\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.CoreCompileInputs.c
 A:\btect 5 sem\.net\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.Up2Date
 A:\btect 5 sem\.net\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.dll
 A:\btect 5 sem\.net\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.pdb
-C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.AssemblyReference.cache
-C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.CoreCompileInputs.cache
-C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.dll
-C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.pdb
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\HRDC_UI.dll.config
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\HRDC_UI.dll
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\HRDC_UI.pdb
@@ -115,4 +111,8 @@ C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\roslyn\VBCSCompiler.exe
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.AssemblyReference.cache
+C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.CoreCompileInputs.cache
 C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.csproj.Up2Date
+C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.dll
+C:\Users\Manan patel\Source\Repos\HRDC_UI\HRDC_UI\obj\Debug\HRDC_UI.pdb
