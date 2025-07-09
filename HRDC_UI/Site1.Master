@@ -1,10 +1,11 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head runat="server">
+    <head runat="server">
     <meta charset="utf-8" />
     <title><%: Page.Title %></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
     <style>
         html, body {
             height: 100%;
@@ -60,6 +61,7 @@
                 Welcome, <asp:Label ID="lblUsername" runat="server" CssClass="fw-bold" />
             </div>
         </header>
+
 
         <!-- Main Content -->
         <div class="main-container">
